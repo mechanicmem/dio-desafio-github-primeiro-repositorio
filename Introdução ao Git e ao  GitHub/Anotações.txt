@@ -1,0 +1,2 @@
+Link para download do Git:
+O git Bash é um terminal etendido para otimizar o uso do Git.
